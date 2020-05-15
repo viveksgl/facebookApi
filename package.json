@@ -1,0 +1,18 @@
+{
+  "name": "fb-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bower": "^1.8.8",
+    "express": "^4.17.1",
+    "facebook-ads-sdk": "^2.10.5",
+    "facebook-nodejs-business-sdk": "^v7.0",
+    "install": "^0.13.0"
+  }
+}

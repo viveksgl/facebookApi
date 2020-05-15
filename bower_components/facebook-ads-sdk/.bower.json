@@ -1,0 +1,48 @@
+{
+  "name": "facebook-ads-sdk",
+  "version": "2.10.5",
+  "description": "SDK for the Facebook Ads API in Javascript and Node.js",
+  "author": {
+    "name": "Lucas Costa",
+    "url": "https://github.com/lucascosta"
+  },
+  "maintainers": [
+    "lucascosta <lucas@lucascosta.com>"
+  ],
+  "homepage": "https://github.com/lucascosta/facebook-js-ads-sdk",
+  "bugs": "https://github.com/lucascosta/facebook-js-ads-sdk/issues",
+  "keywords": [
+    "facebook",
+    "ads",
+    "sdk",
+    "api",
+    "javascript",
+    "nodejs",
+    "amd",
+    "requirejs",
+    "umd",
+    "promises"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lucascosta/facebook-js-ads-sdk.git"
+  },
+  "devDependencies": {
+    "bluebird": "^3.4.1",
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3",
+    "requirejs": "^2.2.0"
+  },
+  "main": "./dist/iife.js",
+  "license": "MIT",
+  "_release": "2.10.5",
+  "_resolution": {
+    "type": "version",
+    "tag": "v2.10.5",
+    "commit": "9e13edfd70b1476005be15c925fa57f6bec6bddc"
+  },
+  "_source": "https://github.com/lucascosta/facebook-js-ads-sdk.git",
+  "_target": "^2.10.5",
+  "_originalSource": "facebook-ads-sdk",
+  "_direct": true
+}
